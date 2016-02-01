@@ -1,2 +1,7 @@
-# hello-word
-Just start a simple repository!
+hello-word
+
+#this is change
+
+a test for studying
+
+finish
